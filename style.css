@@ -36,12 +36,12 @@ nav div a:hover {
 
 nav div.left {
     text-align: left;
-    min-width: 175px;
+    min-width: 120px;
 }
 
 nav div.right {
     text-align: right;
-    min-width: 320px;
+    min-width: 200px;
 }
 
 nav div.right a.sign-in-button {
