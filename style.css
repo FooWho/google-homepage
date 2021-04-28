@@ -62,6 +62,6 @@ nav div.right a.sign-in-button:hover {
 }
 
 footer {
-    position: absolute;
+    position: fixed;
     bottom: 0;
 }
