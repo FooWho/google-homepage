@@ -7,7 +7,7 @@ body {
     font-size: small;
 }
 
-nav {
+header nav {
     width: 100%;
     top: 0;
     height: 65px;
@@ -20,33 +20,33 @@ nav {
     align-items: center;
 }
 
-nav div {
+header nav div {
     width: 50%;
     padding: 15px;
 }
 
-nav div a {
+header nav div a {
     padding: 10px;
     text-decoration: none;
     color: #3b3b3b;
 }
 
-nav div a:hover {
+header nav div a:hover {
     text-decoration: underline;
 } 
 
 
-nav div.left {
+header nav div.left {
     text-align: left;
     min-width: 110px;
 }
 
-nav div.right {
+header nav div.right {
     text-align: right;
     min-width: 250px;
 }
 
-nav div.right a.sign-in-button {
+header nav div.right a.sign-in-button {
     background: #4683ea;
     color: white;
     font-size: 13px;
@@ -57,7 +57,7 @@ nav div.right a.sign-in-button {
     white-space: nowrap;
 }
 
-nav div.right a.sign-in-button:hover {
+header nav div.right a.sign-in-button:hover {
     text-decoration: none;
 }
 
