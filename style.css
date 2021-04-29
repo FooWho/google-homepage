@@ -104,6 +104,10 @@ nav div.right a.sign-in-button:hover {
     border: 0;
 }
 
+#submit-button:hover {
+ box-shadow: 5px 10px #999999;   
+}
+
 footer {
     position: fixed;
     bottom: 0;
