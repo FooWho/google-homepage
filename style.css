@@ -105,7 +105,9 @@ nav div.right a.sign-in-button:hover {
 }
 
 #submit-button:hover {
-    box-shadow: 2px 4px #999999;   
+    border-style: outset;
+    border-width: 2px;
+    border-color: #999999;
 }
 
 footer {
