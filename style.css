@@ -105,7 +105,7 @@ nav div.right a.sign-in-button:hover {
 }
 
 #submit-button:hover {
-    border-style: outset;
+    border-style: solid;
     border-width: 1px;
     border-color: #bbbbbb;
 }
