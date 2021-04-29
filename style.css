@@ -97,6 +97,11 @@ nav div.right a.sign-in-button:hover {
     opacity: 0.5;
 }
 
+#submit-button {
+    margin-top: 20px;
+    margin-left: 75px;
+}
+
 footer {
     position: fixed;
     bottom: 0;
