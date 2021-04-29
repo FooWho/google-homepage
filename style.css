@@ -127,3 +127,27 @@ footer {
     position: fixed;
     bottom: 0;
 }
+
+footer nav {
+    height: 65px;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+}
+
+footer nav div {
+    width: 50%;
+    padding: 15px;
+}
+
+footer nav div.left {
+    text-align: left;
+}
+
+footer nav div.right {
+    text-align: right;
+}
