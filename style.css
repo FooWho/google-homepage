@@ -101,6 +101,7 @@ nav div.right a.sign-in-button:hover {
     height: 40px;
     margin-top: 20px;
     margin-left: 125px;
+    border: 0;
 }
 
 footer {
