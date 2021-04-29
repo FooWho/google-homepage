@@ -151,3 +151,13 @@ footer nav div.left {
 footer nav div.right {
     text-align: right;
 }
+
+footer nav div a {
+    padding: 10px;
+    text-decoration: none;
+    color: #3b3b3b;
+}
+
+footer nav div a:hover {
+    text-decoration: underline;
+} 
