@@ -82,3 +82,8 @@ nav div.right a.sign-in-button:hover {
     border: 1px solid #c0c0c0;
     border-radius: 50px;
 }
+
+footer {
+    position: fixed;
+    bottom: 0;
+}
